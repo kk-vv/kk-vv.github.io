@@ -1,0 +1,44 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# OneClass
+- project: Chirp
+  role: iOS开发及移动端负责人
+  duration: 2022 &mdash; 2023
+  url: "https://apps.apple.com/app/id6444546837"
+  description: Chirp是为Web3打造结合了Socialfi的创新IM社交平台
+
+# OneClass
+- project: OneClass
+  role: iOS开发
+  duration: 2020 &mdash; 2022
+  url: "https://apps.apple.com/app/id1509374392"
+  description: 服务于海外留学生学习交流及课程辅导的产品
+
+# ZLJR
+- project: 时间好物
+  role: iOS开发及移动端负责人
+  duration: 2019 &mdash; 2020
+  # url: "#"
+  description: 集非遗文化、老字号品牌介绍和话题互动为一体的社交电商平台
+
+# SCRESON
+- project: 药店云
+  role: iOS开发及移动端负责人
+  duration: 2016 &mdash; 2017
+  # url: "#"
+  description: 医药电商产品
+
+# RIMI
+- project: Angel医生/Angel孕小宝
+  role: iOS开发及负责人
+  duration: 2014 &mdash; 2015
+  # url: "#"
+  description: 安琪儿集团针对本院设计的方便医护人员及患者日常诊疗服务的移动端解决方案产品
+
+# RIMI
+- project: MDM
+  role: iOS开发及移动端负责人
+  duration: 2013 &mdash; 2014
+  # url: "#"
+  description: 针对iOS平台的移动设备管理系统
