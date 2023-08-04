@@ -1,0 +1,8 @@
+bundle install
+bundle exec jekyll build
+bundle exec jekyll serve
+
+```gemfile
+gem 'liquid', '~> 4.0', '>= 4.0.4'
+gem 'webrick', '~> 1.8', '>= 1.8.1'
+```
